@@ -1,0 +1,14 @@
+.DS_Store
+texts/*
+intermediateFiles/*
+outputs/*
+data/*
+results/*
+tests/*
+dictionaries/*
+evalResults/*
+uncovered.txt
+scratchSaves.py
+*.pyc
+*/*.pyc
+*/*/*.pyc

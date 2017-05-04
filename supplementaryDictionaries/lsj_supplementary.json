@@ -1,0 +1,120 @@
+{
+  "dict": {
+  	"eu)/ploia":{
+  		"letter": "*e", 
+  		"irregular": false,
+  	 	"endingType": "firstDeclensionShortAlpha", 
+  		"betacode": "eu)/ploia", 
+  		"sortKey": "n44799", 
+  		"pos": "noun", 
+  		"link": "", 
+  		"key": "eu)/ploia", 
+  		"stemDivision": {
+  			"nomsg": [["l", "l"], ["l", "s", "s"]], 
+  			"rest": [["l", "l"], ["l", "s", "s"]]
+  		}, 
+  		"stem": {
+  			"nomsg": ["eu)ploi", "eu)ploi+"], 
+  			"rest": ["eu)ploi", "eu)ploi+"]
+  		}
+  	},
+  	"dei/dw":{
+  		"letter": "*d", 
+  		"irregular": false,
+  	 	"endingType": "thematicVerb", 
+  		"betacode": "dei/dw", 
+  		"sortKey": "n/a", 
+  		"pos": "verb", 
+  		"link": "", 
+  		"key": "dei/dw", 
+  		"stemDivision": {
+        	"pres": {"act": ["l"], "mp": ["l"]},
+        	"imperf": {
+            	"act": {"n": ["l"], "y": ["s", "l"]},
+            	"mp": {"n": ["l"], "y": ["s", "l"]}
+        	},
+        	"fut": {"act": ["l"], "mid": ["l"], "pass": ["l", "l"]},
+        	"aor": {
+            	"act": {"n": ["l"], "y": ["s", "l"]},
+            	"mid": {"n": ["l"], "y": ["s", "l"]},
+            	"pass": {"n": ["l"], "y": ["s", "l"]}
+        	},
+        	"perf": {"act": ["s", "l"], "mp": [["s", "l"]]},
+        	"plup": {
+            	"act": {"n": ["s", "l"], "y": ["s", "s", "l"]},
+            	"mp": {"n": ["s", "l"], "y": ["s", "s", "l"]}
+        	},
+        	"futperf": ["s", "l"]
+    	}, 
+  		"stem": {
+        	"pres": {"act": "dveid", "mp": "dveid"},
+        	"imperf": {
+            	"act": {"n": "dveid", "y": "e)dveid"},
+            	"mp": {"n": "dveid", "y": "e)dveid"}
+        	},
+        	"fut": {"act": "dveis", "mid": "dveis", "pass": "e)dveiqhs"},
+        	"aor": {
+            	"act": {"n": "dveis", "y": "e)dveis"},
+            	"mid": {"n": "dveis", "y": "e)dveis"},
+            	"pass": {"n": "dveiq", "y": "e)dveiq"}
+        	},
+        	"perf": {"act": "dedveik", "mp": "dedvei"},
+        	"plup": {
+            	"act": {"n": "dedveik", "y": "e)dedveik"},
+            	"mp": {"n": "dedvei", "y": "e)dedvei"}
+        	},
+        	"futperf": "dedveis"
+    	}
+  	},
+  	"u(podei/dw": {"letter": "*", "irregular": false, 
+  		"stemDivision": {
+  			"imperf": {"mp": {"y": ["l", "s", "l"], "n": ["?", "s", "l"]}, 
+  			"act": {"y": ["l", "s", "l"], "n": ["?", "s", "l"]}}, 
+  			"fut": {"pass": ["?", "s", "l", "l"], "mid": ["?", "s", "l"], "act": ["?", "s", "l"]}, 
+  			"perf": {"mp": ["l", "s", "l"], "act": ["l", "s", "l"]}, 
+  			"futperf": ["l", "s", "l"], 
+  			"aor": {"pass": {"y": ["s", "s", "l"], "n": ["?", "s", "l"]}, "mid": {"y": ["s", "s", "l"], "n": ["?", "s", "l"]}, "act": {"y": ["s", "s", "l"], "n": ["?", "s", "l"]}}, 
+  			"plup": {"mp": {"y": ["l", "s", "l"], "n": ["l", "s", "l"]}, "act": {"y": ["l", "s", "l"], "n": ["l", "s", "l"]}}, 
+  			"pres": {"mp": ["?", "s", "l"], "act": ["?", "s", "l"]}}, "endingType": "thematicVerb", "betacode": "u(podei/dw", "sortKey": "n108239", "pos": "verb", "link": "", "key": "u(podei/dw", 
+  		"stem": {
+  			"imperf": {"mp": {"y": "u(pedveid", "n": "u(podveid"}, "act": {"y": "u(pedveid", "n": "u(podveid"}}, 
+  			"fut": {"pass": "u(podveisqhs", "mid": "u(podveis", "act": "u(podveis"}, 
+  			"perf": {"mp": "u(podveis", "act": "u(podveik"}, 
+  			"futperf": "u(podveiss", 
+  			"aor": {"pass": {"y": "u(pedveisq", "n": "u(podveisq"}, "mid": {"y": "u(pedveis", "n": "u(podveis"}, "act": {"y": "u(pedveis", "n": "u(podveis"}}, 
+  			"plup": {"mp": {"y": "u(podveis", "n": "u(podveis"}, 
+  			"act": {"y": "u(podveik", "n": "u(podveik"}}, "pres": {"mp": "u(podveid", "act": "u(podveid"}}
+  	},
+  	"ui(o/s":{"letter": "*", "irregular": false, "stemDivision": {"nomsg": [["?"]], "rest": [["?"]]}, "endingType": "secondDeclensionOS", "betacode": "ui(o/s", "sortKey": "n106566", "pos": "noun", "link": "", "key": "ui(o/s", "stem": {"nomsg": ["ui("], "rest": ["ui("]}},
+  	"e)/rgon":{
+  		"letter": "*e", 
+  		"irregular": false, 
+  		"stemDivision": {"nomsg": [["s"]], "rest": [["s"]]}, 
+  		"endingType": "secondDeclensionON", 
+  		"betacode": "e)/rgon", 
+  		"sortKey": "n42214", 
+  		"pos": "noun", 
+  		"link": "", 
+  		"key": "e)/rgon", 
+  		"stem": {"nomsg": ["ve)rg"], "rest": ["ve)rg"]}
+  	},  	
+  	"e)/mpalin": {"letter": "*e", "irregular": false, "stemDivision": ["s", "s", "?"], "endingType": "adv", "betacode": "e)/mpalin", "sortKey": "n34219", "pos": "??", "link": "", "key": "e)/mpalin", "stem": "e)mpalin"},
+  	"lao/s":{
+  		"letter": "*", 
+  		"irregular": false, 
+  		"stemDivision": {"nomsg": [["l"]], "rest": [["l"]]}, 
+  		"endingType": "thirdDeclensionConsonantStem",
+  		"betacode": "lao/s", 
+  		"sortKey": "", 
+  		"pos": "noun", 
+  		"link": "", 
+  		"key": "lao/s", 
+  		"stem": {"nomsg": ["la"], "rest": ["la"]}
+  	},
+  	"e(ano/s": {"letter": "*e", "irregular": false, "stemDivision": {"neut": [["s", "?"]], "neutNom": [["s", "?"]], "fem": [["s", "?"]], "masc": [["s", "?"]], "mascNom": [["s", "?"]]}, "endingType": "threeTerminationAdjectiveEta", "betacode": "e(ano/s", "sortKey": "n29862", "pos": "adj", "link": "", "key": "e(ano/s", "stem": {"neut": ["e(an"], "neutNom": ["e(an"], "fem": ["e(an"], "masc": ["e(an"], "mascNom": ["e(an"]}},
+  	"e)ri/hros": {"letter": "*e", "irregular": false, "stemDivision": {"neut": [["s", "?", "l"]], "neutNom": [["s", "?", "l"]], "fem": [["s", "?", "l"]], "masc": [["s", "?", "l"]], "mascNom": [["s", "?", "l"]]}, "endingType": "thirdDeclensionAdjectiveWN", "betacode": "e)ri/hros", "sortKey": "n42436", "pos": "adj", "link": "", "key": "e)ri/hros", "stem": {"neut": ["e)rihr"], "neutNom": ["e)rihrov"], "fem": ["e)rihr"], "masc": ["e)rihr"], "mascNom": ["e)rihros"]}}, 
+  	"i(ereu/w": {"letter": "*i", "irregular": false, "stemDivision": {"imperf": {"mp": {"y": ["l", "s", "l"], "n": ["?", "s", "l"]}, "act": {"y": ["l", "s", "l"], "n": ["?", "s", "l"]}}, "fut": {"pass": ["?", "s", "l", "l"], "mid": ["?", "s", "l"], "act": ["?", "s", "l"]}, "perf": {"mp": ["l", "s", "l"], "act": ["l", "s", "l"]}, "futperf": ["l", "s", "l"], "aor": {"pass": {"y": ["?", "s", "l"], "n": ["?", "s", "l"]}, "mid": {"y": ["?", "s", "l"], "n": ["?", "s", "l"]}, "act": {"y": ["?", "s", "l"], "n": ["?", "s", "l"]}}, "plup": {"mp": {"y": ["l", "s", "l"], "n": ["l", "s", "l"]}, "act": {"y": ["l", "s", "l"], "n": ["l", "s", "l"]}}, "pres": {"mp": ["?", "s", "l"], "act": ["?", "s", "l"]}}, "endingType": "thematicVerb", "betacode": "i(ereu/w", "sortKey": "n50007", "pos": "verb", "link": "", "key": "i(ereu/w", "stem": {"imperf": {"mp": {"y": "i(ere", "n": "i(ere"}, "act": {"y": "i(ere", "n": "i(ere"}}, "fut": {"pass": "i(ereuqhs", "mid": "i(ereus", "act": "i(ereus"}, "perf": {"mp": "i(ere", "act": "i(ereuk"}, "futperf": "i(ereus", "aor": {"pass": {"y": "i(ereuq", "n": "i(ereuq"}, "mid": {"y": "i(ereus", "n": "i(ereus"}, "act": {"y": "i(ereus", "n": "i(ereus"}}, "plup": {"mp": {"y": "i(ere", "n": "i(ere"}, "act": {"y": "i(ereuk", "n": "i(ereuk"}}, "pres": {"mp": "i(ere", "act": "i(ere"}}},
+  	"u(/dwr":{"letter": "*", "irregular": false, "stemDivision": {"nomsg": [["?", "l"]], "rest": [["?", "?"]]}, "endingType": "thirdDeclensionConsonantStem", "betacode": "u(/dwr", "sortKey": "n106502", "pos": "noun", "link": "", "key": "u(/dwr", "stem": {"nomsg": ["u(dwr"], "rest": ["u(dat"]}}
+  },
+  "name": "lsj"
+}
